@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! 😁  My name is Jonas and I am a software engineering student in my third year. 
+Welcome to my GitHub profile! 😁  I am a software engineering student in my third year. 
 I am passionate about learning object-oriented programming and front-end development.
 
 On my profile, you will find a variety of projects that showcase my skills and interests in these areas.
