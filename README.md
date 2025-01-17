@@ -1,10 +1,6 @@
 Welcome to my GitHub profile! 😁  I am a software engineering student in my third year. 
 I am passionate about learning object-oriented programming and front-end development.
 
-On my profile, you will find a variety of projects that showcase my skills and interests in these areas.
-From small applications built using OOP principles to front-end development projects using HTML, CSS, and JavaScript, 
-I am constantly learning and expanding my skillset.
-
 I am always looking for new opportunities to learn and grow, so feel free to reach out to me if you have any suggestions or collaborations in mind. 
 
 
