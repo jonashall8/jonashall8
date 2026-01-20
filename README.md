@@ -3,6 +3,7 @@ I am passionate about learning cloud, embedded and systems engineering and explo
 
 I am always looking for new opportunities to learn and grow, so feel free to reach out to me if you have any suggestions or collaborations in mind. 
 
+Currently working on Senior Engineering Capstone - Sortify!
 
 <!---
 jonashall8/jonashall8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
