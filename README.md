@@ -1,5 +1,5 @@
 Welcome to my GitHub profile! 😁  I am a software engineering student in my fourth year. 
-I am passionate about learning cloud, embedded and systems engineering, and exploring new languages for development.
+I am passionate about learning cloud, embedded, and systems engineering, and exploring new languages for development.
 
 I am always looking for new opportunities to learn and grow, so feel free to reach out to me if you have any suggestions or collaborations in mind. 
 
